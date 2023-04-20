@@ -1,0 +1,26 @@
+
+.mx-auto{
+    margin: auto;
+
+}
+.flex{
+  display: flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.color button{
+  
+ 
+  color: #33ffd8;
+  
+  
+}
+.color button:hover{
+  color: white;
+  background: linear-gradient( 180deg,transparent,#f3f321);
+
+}
